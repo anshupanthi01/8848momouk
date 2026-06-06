@@ -1,0 +1,19 @@
+{
+  "leftText": "When you come to 8848 Momo House, expect to feel uplifted and warmly welcomed. Bring your friends, eat and drink and have some laughs. Above all, expect 100% satisfaction.",
+  "contactUs": "CONTACT US",
+  "orderOnline": "ORDER ONLINE",
+  "moreAboutUs": "MORE ABOUT US",
+  "findYour": "FIND YOUR",
+  "localMomoHouse": "LOCAL MOMO HOUSE",
+  "privacy": "Privacy",
+  "terms": "Terms",
+  "footerLocation": {
+    "city": "Your City",
+    "address": "123 Example Street, Your City",
+    "phoneLabel": "Phone:",
+    "phoneRaw": "0000000000",
+    "phoneDisplay": "0000 000 000",
+    "hoursLabel": "Opening hours:",
+    "hoursValue": "Friday 11:30 AM-10 PM\nSaturday 12:30-10 PM\nSunday 12:30-10 PM\nMonday 11:30 AM-10 PM\nTuesday 11:30 AM-10 PM\nWednesday 11:30 AM-10 PM\nThursday 11:30 AM-10 PM"
+  }
+}

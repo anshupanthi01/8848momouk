@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "kicker": "About Us",
+    "title1": "8848 Momo House",
+    "title2": "Nepalese Restaurant"
+  },
+  "splitIntro": {
+    "imageAlt": "8848 momo platter",
+    "title1": "Yay!",
+    "title2": "You found us!",
+    "p1": "Normally, to experience world-class plump and tender momos, you have to trek the mountains and valleys of Nepal itself. But lucky you, you have got an 8848 Momo House within easy reach.",
+    "p2": "We use only the best ingredients including choice meats, the freshest vegetables and carefully selected spices. Every individual momo is handcrafted to be juicy, yummy and full of love. But dont miss out on trying other items on our menu. Our customers come back time and again because they want to sample more!",
+    "goodTimesAlt": "Good times and tasty food"
+  },
+  "hom": {
+    "script": "Good times and tasty food!",
+    "title": "momos by hom",
+    "p1": "8848 Momo House is the invention of Hom Pyashi, Nepali ex-pat and proud new Aussie. Homesick and craving his familiar comfort foods, Hom built a restaurant and our number of locations is steadily increasing. Now he can have momos any time he wants and even better, share them with other Nepali ex-pats and introduce them to Aussies.",
+    "p2": "When you come to 8848 Momo House, expect to feel uplifted and warmly welcomed. Bring your friends, eat and drink and have some laughs. Above all, expect 100% satisfaction.",
+    "imageAlt": "Brass bowl momos"
+  },
+  "story": {
+    "imageAlt1": "Once upon a time in Nepal",
+    "title1": "Momos... the great",
+    "title2": "social levellers",
+    "lead": "Let me tell you a story (it may or may not be true, but does it really matter?)",
+    "once": "Once upon a time",
+    "p1": "A rich man travelling through the plains of Nepal felt hunger gnawing at his tummy. Unable to find an upmarket restaurant to soothe his pangs, he wondered what on earth he would do. That is, until he smelled delicious aromas wafting from a street vendor cart.",
+    "p2": "One taste and the man was enamoured. Soon, momos became so adored by high society that they became a social leveller across the land. Rich and poor people openly shared momos and smiles in the streets and villages.",
+    "p3": "Today, 8848 Momo House embodies that same spirit here in Australia. Momos bring people together for fun, good times and conversation.",
+    "p4": "The man continued eating until he was fit to burst. Never one to miss an opportunity, his entrepreneurial nature fired into action and he hired the woman on the spot to bring momos to his magnificent banquets … quite the Cinderella story, in fact.",
+"p5": "Soon, momos became so adored by high society that they became a social leveller across the land. Rich and poor people openly shared momos and smiles in the streets and villages, getting to know one another and bestowing kindness and happiness all around.",
+"p6": "Today, 8848 Momo House embodies that same spirit here in Australia. Momos bring people together for fun, good times and conversation. Every toothsome bite into a pillowy, flavourful momo brings a smile. We invite you to experience the warm hospitality, the joyful fun and the belly-satisfying delights we offer every single day.",
+    "imageAlt2": "Nepalese hands preparing food"
+  },
+  "club": {
+    "title": "Join the Momoste Club",
+    "body": "Join the Momoste Club and we all show you the extra special VIP treatment you deserve. Youâ€™ll be the first to receive event invites, announcement, unique discounts and offers.",
+    "cta": "Join for free",
+    "imageAlt": "Jak the Yak"
+  }
+}

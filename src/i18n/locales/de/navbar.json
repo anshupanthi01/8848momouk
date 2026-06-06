@@ -1,0 +1,17 @@
+{
+  "phone": "1300-1 MOMOS",
+  "orderOnline": "ONLINE BESTELLEN",
+  "mobile": { "menu": "Menü" },
+  "language": { "en": "EN", "nl": "DE" },
+  "links": {
+    "home": "STARTSEITE",
+    "menu": "MENÜ",
+    "gallery": "GALERIE",
+    "events": "VERANSTALTUNGEN",
+    "rewards": "BELONUNGEN",
+    "stuff": "SONSTIGES",
+    "franchise": "FRANCHISE",
+    "careers": "KARRIERE",
+    "about": "ÜBER UNS"
+  }
+}

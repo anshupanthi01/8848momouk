@@ -1,0 +1,16 @@
+export const queryKeys = {
+  me: ["studio", "me"],
+  dashboard: ["studio", "dashboard"],
+  menuDocuments: ["studio", "menuDocuments"],
+  menu: (params = {}) => ["studio", "menu", params],
+  blogs: (params = {}) => ["studio", "blogs", params],
+  gallery: ["studio", "gallery"],
+  reservations: (params = {}) => ["studio", "reservations", params],
+  pages: ["studio", "pages"],
+  navigation: ["studio", "navigation"],
+  settings: ["studio", "settings"],
+  franchiseFaqs: ["studio", "franchiseFaqs"],
+  franchiseInquiries: ["studio", "franchiseInquiries"],
+  locations: ["studio", "locations"],
+  testimonials: ["studio", "testimonials"],
+}

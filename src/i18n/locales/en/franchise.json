@@ -1,0 +1,164 @@
+{
+  "hero": {
+    "kicker": "FRANCHISE OPPORTUNITIES",
+    "titleLine1": "YOUR NEXT",
+    "titleLine2": "NEPALESE MOMO",
+    "titleLine3": "FRANCHISE.",
+    "body": "From a single kitchen in Australia to 20+ stores and growing, 8848 Momo House is the home of plump, hand-pleated Nepalese dumplings and Oriental Fusion. We are preparing the next market and inviting founding franchise partners to climb with us.",
+    "ctaPrimary": "Start Your Application",
+    "ctaSecondary": "Why 8848?",
+    "chips": ["Proven in 20+ stores", "Local launch support", "Founding-partner pricing"],
+    "everest": { "title": "MOUNT EVEREST", "country": "Nepal", "height": "8848m" },
+    "imageAlt": "Steaming Nepalese momo dumplings in a bamboo basket",
+    "imageBadge": "EST. AUSTRALIA - 20+ STORES",
+    "imageCaptionLine1": "Good times.",
+    "imageCaptionLine2": "Tasty food.",
+    "imageCaptionScript": "Momoste!",
+    "stampAlt": "8848 Momo House founder stamp"
+  },
+  "stats": {
+    "items": [
+      { "k": "20+", "v": "Stores across Australia" },
+      { "k": "1st", "v": "Nepalese franchise globally" },
+      { "k": "3M+", "v": "Momos served and counting" },
+      { "k": "4.7", "v": "Average customer rating" }
+    ]
+  },
+  "banner": {
+    "kicker": "Australia to the next market",
+    "title": "FROM KATHMANDU'S STREETS, VIA AUSTRALIA, TO YOUR CITY.",
+    "body": "We have spent years perfecting the playbook across 20+ Australian stores. Now we are inviting a small group of founding partners to bring 8848 Momo House to new high streets.",
+    "ctaPrimary": "Register Interest",
+    "ctaSecondary": "See Investment Levels"
+  },
+  "story": {
+    "label": "Our story",
+    "titleLine1": "WHY 8848?",
+    "titleLine2": "BECAUSE WE AIM HIGHER.",
+    "p1": "8848 is the height of Mt Everest, and the bar we have set every day since opening our first kitchen. Today, 8848 Momo House is Australia's favourite Nepalese momo destination with 20+ stores and growing, and the world's first Nepalese restaurant franchise.",
+    "p2": "Now we are bringing the same hand-pleated momos, Oriental Fusion menu and cheeky \"Momoste!\" welcome to new neighbourhoods, looking for founding partners to grow with us.",
+    "imageAlt": "8848 Momo House storefront",
+    "cards": [
+      { "icon": "Mountain", "text": "Himalayan heritage" },
+      { "icon": "Utensils", "text": "Chef-developed menu" },
+      { "icon": "HeartHandshake", "text": "Family-led culture" },
+      { "icon": "Sparkles", "text": "Distinct brand identity" }
+    ]
+  },
+  "why": {
+    "label": "Why franchise with 8848",
+    "titleLine1": "MORE THAN A RESTAURANT.",
+    "titleLine2": "A NEIGHBOURHOOD RITUAL.",
+    "body": "Owning an 8848 Momo House means stepping into a brand with proven product, process and people. You bring the passion, we bring the playbook.",
+    "items": [
+      { "icon": "Award", "title": "First-mover opportunity", "body": "The world's first Nepalese franchise is opening new territories. Be the founding partner in your city before the territory is gone." },
+      { "icon": "Utensils", "title": "Crave-worthy menu", "body": "Hand-pleated dumplings, signature sauces and Oriental Fusion sharing plates designed for repeat visits and a strong average ticket." },
+      { "icon": "Users", "title": "Proven in 20+ stores", "body": "Battle-tested operations, supply chain and marketing playbook refined across 20+ Australian sites and ready for the next market." },
+      { "icon": "HeartHandshake", "title": "Real partnership", "body": "We do not just hand you a manual. We build alongside you through site, fit-out, training, marketing and ongoing operations." }
+    ]
+  },
+  "formats": {
+    "label": "Franchise formats",
+    "titleLine1": "FOUR WAYS",
+    "titleLine2": "TO OPEN.",
+    "items": [
+      { "icon": "Store", "title": "High Street", "body": "Flagship dine-in restaurants on busy high streets." },
+      { "icon": "Utensils", "title": "Food Hall", "body": "Compact kitchens in food halls and market locations." },
+      { "icon": "TrendingUp", "title": "Transport Hubs", "body": "Quick-service kiosks for stations and airports." },
+      { "icon": "Sparkles", "title": "Dark Kitchen", "body": "Delivery-only sites for high-density suburbs." }
+    ]
+  },
+  "support": {
+    "label": "What you get",
+    "titleLine1": "BASE CAMP",
+    "titleLine2": "TO THE SUMMIT.",
+    "body": "Every franchisee gets a complete launch and growth program backed by our operations, culinary and marketing teams.",
+    "pillars": [
+      "Site selection and lease negotiation",
+      "Restaurant design and fit-out",
+      "Recipe and kitchen training",
+      "Supply chain and sourcing",
+      "Marketing and local launch",
+      "Tech, POS and online ordering",
+      "Ongoing operations coaching",
+      "Compliance and food safety"
+    ],
+    "badge": "FRANCHISEE-FIRST",
+    "imageAlt": "8848 Momo House restaurant interior"
+  },
+  "investment": {
+    "label": "Investment",
+    "titleLine1": "THREE WAYS",
+    "titleLine2": "TO SUMMIT.",
+    "body": "Indicative all-in investment ranges including franchise fee, fit-out, equipment, training and working capital.",
+    "featuredBadge": "MOST POPULAR",
+    "tiers": [
+      { "name": "Express Kitchen", "range": "Placeholder", "blurb": "Compact takeaway / food-court format. Lower footprint, fast turnaround, perfect for transport hubs.", "features": ["40-80 sq m", "Takeaway and delivery focus", "Smaller team"] },
+      { "name": "Neighbourhood", "range": "Placeholder", "blurb": "Our flagship high-street dine-in format, the full 8848 experience.", "features": ["80-160 sq m", "Dine-in, takeaway and delivery", "Full menu, full team"], "featured": true },
+      { "name": "Multi-Unit", "range": "Placeholder", "blurb": "For experienced operators developing a territory of 3+ stores.", "features": ["Regional territory rights", "Area development plan", "Senior support team"] }
+    ],
+    "disclaimer": "Figures are placeholder only and not an offer to franchise. Formal franchise documentation will be provided to qualified candidates in line with local market requirements."
+  },
+  "process": {
+    "label": "The journey",
+    "titleLine1": "FROM FIRST CALL",
+    "titleLine2": "TO FIRST MOMO.",
+    "steps": [
+      { "n": "01", "t": "Apply", "d": "Submit the inquiry form below. It takes about 3 minutes." },
+      { "n": "02", "t": "Discovery call", "d": "We meet, share the model, and answer your questions." },
+      { "n": "03", "t": "Mutual fit", "d": "Financial review, references and a visit to a live store." },
+      { "n": "04", "t": "Disclosure and sign", "d": "Formal documentation, territory and site approval." },
+      { "n": "05", "t": "Build and train", "d": "Fit-out, recipe training, hiring and pre-opening marketing." },
+      { "n": "06", "t": "Open the doors!", "d": "Launch day and the first Momoste in your neighbourhood." }
+    ]
+  },
+  "testimonial": {
+    "quoteMark": "\"",
+    "quote": "The 8848 brand felt like family from day one. The recipes, the training, the marketing, everything was ready to go. We just had to bring the heart.",
+    "attribution": "- AN 8848 FRANCHISE PARTNER"
+  },
+  "faq": {
+    "label": "Questions, answered",
+    "titleLine1": "FREQUENTLY",
+    "titleLine2": "ASKED.",
+    "items": [
+      { "q": "Do I need hospitality experience?", "a": "No, but it helps. We look for owner-operators who are passionate, customer-focused and ready to learn." },
+      { "q": "How long does it take to open?", "a": "Typically 6-9 months from signed agreement to opening day, depending on site availability and local authority approvals." },
+      { "q": "What ongoing fees apply?", "a": "A modest royalty and national marketing levy on net sales, disclosed in full in the formal franchise documentation." },
+      { "q": "Can I take a regional territory?", "a": "Yes. Founding partners can secure multi-unit and regional area-development rights with dedicated operational, supply-chain and marketing resources." },
+      { "q": "Is the programme built for local markets?", "a": "Yes. Our franchise programme is designed around transparent disclosure, fair contracts, operational support and practical local market requirements." }
+    ]
+  },
+  "inquiry": {
+    "label": "Let's talk",
+    "titleLine1": "START YOUR",
+    "titleLine2": "8848 JOURNEY.",
+    "lead": "Tell us a little about you and the city you would like to open in. Our team will be in touch within 2 working days.",
+    "contacts": [
+      { "icon": "Phone", "label": "0000 000 000 - call us", "href": "tel:0000000000" },
+      { "icon": "Mail", "label": "info@example.com", "href": "mailto:info@example.com" },
+      { "icon": "MapPin", "label": "123 Example Street, Your City", "href": "" }
+    ],
+    "cardKicker": "Founding Partner",
+    "cardTitle": "Reduced franchise fee",
+    "cardBody": "The first 10 partners receive a reduced initial franchise fee and priority territory selection.",
+    "successTitle": "Momoste!",
+    "successCta": "Submit Another",
+    "privacy": "By submitting, you agree to be contacted by 8848 Momo House about franchise opportunities. Your details stay confidential."
+  },
+  "form": {
+    "nameLabel": "Full Name",
+    "namePlaceholder": "Your full name",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us your city, budget, timeline, or any questions...",
+    "submit": "Register My Interest",
+    "submitting": "Submitting...",
+    "error": "Something went wrong. Please try again.",
+    "successTitle": "Thank you!",
+    "successBody": "We received your details. We will be in touch soon.",
+    "fallbackMessage": "New franchise enquiry"
+  },
+  "email": { "title": "Franchise Enquiry" }
+}

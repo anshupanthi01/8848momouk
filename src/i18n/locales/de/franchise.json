@@ -1,0 +1,294 @@
+{
+  "hero": {
+    "kicker": "FRANCHISE-MÖGLICHKEITEN",
+    "titleLine1": "DEUTSCHLANDS NÄCHSTE",
+    "titleLine2": "NEPALESISCHE MOMO-",
+    "titleLine3": "FRANCHISE.",
+    "body": "Von einer Küche in Australien zu über 20 Standorten: 8848 Momo House ist die Heimat handgefalteter nepalesischer Dumplings und Oriental Fusion. Wir wachsen in Deutschland — und suchen Franchise-Partner in Frankfurt und darüber hinaus.",
+    "ctaPrimary": "Jetzt bewerben",
+    "ctaSecondary": "Warum 8848?",
+    "chips": [
+      "Bewährt in über 20 Standorten",
+      "Support in Deutschland",
+      "Attraktive Einstiegskonditionen"
+    ],
+    "everest": {
+      "title": "MOUNT EVEREST",
+      "country": "Nepal",
+      "height": "8848m"
+    },
+    "imageAlt": "Dampfende nepalesische Momo-Dumplings in einem Bambuskorb",
+    "imageBadge": "GEGRÜNDET IN AUSTRALIEN · 20+ STANDORTE",
+    "imageCaptionLine1": "Good times.",
+    "imageCaptionLine2": "Tasty food.",
+    "imageCaptionScript": "Momoste!",
+    "stampAlt": "Yak — 8848 Momo House Stempel"
+  },
+
+  "stats": {
+    "items": [
+      { "k": "20+", "v": "Standorte in Australien" },
+      { "k": "1.", "v": "Nepalesische Franchise weltweit" },
+      { "k": "3M+", "v": "Servierte Momos" },
+      { "k": "4.7★", "v": "Durchschnittsbewertung" }
+    ]
+  },
+
+  "banner": {
+    "kicker": "Australien → Deutschland",
+    "title": "VON KATHMANDU, ÜBER AUSTRALIEN, NACH DEUTSCHLAND.",
+    "body": "Wir haben das Konzept in über 20 australischen Standorten perfektioniert. Jetzt suchen wir eine kleine Gruppe von Gründungspartnern, um 8848 Momo House in deutsche Einkaufsstraßen zu bringen — mit Fokus auf Frankfurt, Berlin, München, Hamburg und Köln.",
+    "ctaPrimary": "Interesse anmelden",
+    "ctaSecondary": "Investitionsstufen ansehen"
+  },
+
+  "story": {
+    "label": "Unsere Geschichte",
+    "titleLine1": "WARUM 8848?",
+    "titleLine2": "WEIL WIR HÖHER ZIELEN.",
+    "p1": "8848 ist die Höhe des Mount Everest — und der Standard, den wir jeden Tag anstreben. Heute ist 8848 Momo House ein beliebtes Momo-Ziel in Australien mit über 20 Standorten und Wachstum sowie die erste nepalesische Restaurant-Franchise der Welt.",
+    "p2": "Jetzt bringen wir dieselben handgefalteten Momos, das Oriental-Fusion-Menü und das spielerische „Momoste!“-Willkommen nach Deutschland — und suchen Partner, um gemeinsam zu wachsen.",
+    "imageAlt": "8848 Momo House Ladenfront",
+    "cards": [
+      { "icon": "Mountain", "text": "Himalaya-Tradition" },
+      { "icon": "Utensils", "text": "Von Köchen entwickeltes Menü" },
+      { "icon": "HeartHandshake", "text": "Familienkultur" },
+      { "icon": "Sparkles", "text": "Starke Markenidentität" }
+    ]
+  },
+
+  "why": {
+    "label": "Warum Franchise mit 8848",
+    "titleLine1": "MEHR ALS EIN RESTAURANT.",
+    "titleLine2": "EIN NACHBARSCHAFTSRITUAL.",
+    "body": "Ein 8848 Momo House bedeutet den Einstieg in eine Marke mit bewährten Produkten, Prozessen und Menschen. Du bringst die Leidenschaft — wir den Plan.",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "Früher Einstieg in Deutschland",
+        "body": "Die erste nepalesische Franchise der Welt — jetzt in Deutschland. Werde Gründungspartner in deiner Stadt."
+      },
+      {
+        "icon": "Utensils",
+        "title": "Ein Menü, zu dem Gäste zurückkehren",
+        "body": "Handgefaltete Dumplings, Signature-Saucen und Oriental-Fusion-Gerichte für hohe Wiederkehrquote."
+      },
+      {
+        "icon": "Users",
+        "title": "Bewährt in über 20 Standorten",
+        "body": "Erprobtes Betriebs- und Marketingmodell, bereit für den deutschen Markt."
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Echte Partnerschaft",
+        "body": "Nicht nur ein Handbuch: Wir bauen gemeinsam — Standort, Training, Marketing und Betrieb."
+      }
+    ]
+  },
+
+  "formats": {
+    "label": "Deutschland Formate",
+    "titleLine1": "VIER MÖGLICHKEITEN",
+    "titleLine2": "ZU ERÖFFNEN.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "High Street",
+        "body": "Dine-in-Konzept in belebten Einkaufsstraßen."
+      },
+      {
+        "icon": "Utensils",
+        "title": "Food Hall",
+        "body": "Kompakte Küche in Food Halls und Märkten."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Verkehrsknotenpunkte",
+        "body": "Quick-Service-Kioske für Bahnhöfe und Flughäfen."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Dark Kitchen",
+        "body": "Nur-Lieferstandorte für dicht besiedelte Gebiete."
+      }
+    ]
+  },
+
+  "support": {
+    "label": "Was du bekommst",
+    "titleLine1": "BASE CAMP",
+    "titleLine2": "BIS ZUM GIPFEL.",
+    "body": "Jeder Franchisenehmer erhält ein komplettes Launch- und Wachstumsprogramm mit operativem, kulinarischem und Marketing-Support.",
+    "pillars": [
+      "Standortwahl & Vertragsverhandlungen",
+      "Design & Einrichtung",
+      "Rezept- & Küchentraining",
+      "Lieferkette & Beschaffung",
+      "Marketing & lokale Eröffnung",
+      "Tech, POS & Online-Bestellungen",
+      "Laufendes Coaching",
+      "Compliance & Lebensmittelsicherheit"
+    ],
+    "badge": "FRANCHISEE-FIRST",
+    "imageAlt": "8848 Momo House Innenbereich"
+  },
+
+  "investment": {
+    "label": "Investition",
+    "titleLine1": "DREI WEGE",
+    "titleLine2": "ZU STARTEN.",
+    "body": "Ungefähre Gesamtinvestitionsbereiche inklusive Franchisegebühr, Ausbau, Ausstattung, Training und Betriebskapital.",
+    "featuredBadge": "AM BELIEBTESTEN",
+    "tiers": [
+      {
+        "name": "Express Kitchen",
+        "range": "€150k – €250k",
+        "blurb": "Kompaktes Takeaway-/Food-Court-Modell mit schnellem Start.",
+        "features": ["40–80 m²", "Takeaway & Lieferung", "Kleines Team (4–8)"]
+      },
+      {
+        "name": "Neighbourhood",
+        "range": "€250k – €400k",
+        "blurb": "High-Street-Dine-in-Modell — das komplette 8848 Erlebnis.",
+        "features": [
+          "80–160 m²",
+          "Dine-in + Takeaway + Lieferung",
+          "Vollständiges Menü"
+        ],
+        "featured": true
+      },
+      {
+        "name": "Multi-Unit",
+        "range": "€400k+",
+        "blurb": "Für erfahrene Betreiber mit 3+ Standorten.",
+        "features": [
+          "Gebietsrechte",
+          "Area-Development-Plan",
+          "Zusätzliches Support-Team"
+        ]
+      }
+    ],
+    "disclaimer": "Beträge sind Richtwerte (EUR), exkl. MwSt., und kein Franchise-Angebot. Formelle Unterlagen werden qualifizierten Kandidaten bereitgestellt."
+  },
+
+  "process": {
+    "label": "Die Reise",
+    "titleLine1": "VOM ERSTEN ANRUF",
+    "titleLine2": "BIS ZUM ERSTEN MOMO.",
+    "steps": [
+      {
+        "n": "01",
+        "t": "Bewerben",
+        "d": "Fülle das Formular aus — dauert etwa 3 Minuten."
+      },
+      {
+        "n": "02",
+        "t": "Kennenlern-Gespräch",
+        "d": "Wir besprechen das Modell und beantworten deine Fragen."
+      },
+      {
+        "n": "03",
+        "t": "Passung",
+        "d": "Finanzprüfung, Referenzen und Besuch eines Live-Standorts."
+      },
+      {
+        "n": "04",
+        "t": "Unterlagen & Vereinbarung",
+        "d": "Formelle Dokumente, Gebiet und Standortfreigabe."
+      },
+      {
+        "n": "05",
+        "t": "Bauen & Trainieren",
+        "d": "Ausbau, Training, Einstellung und Pre-Opening-Marketing."
+      },
+      {
+        "n": "06",
+        "t": "Eröffnung!",
+        "d": "Launch Day — das erste „Momoste!“ in deiner Nachbarschaft."
+      }
+    ]
+  },
+
+  "testimonial": {
+    "quoteMark": "\"",
+    "quote": "Die Marke 8848 fühlte sich vom ersten Tag an wie Familie an. Rezepte, Training und Marketing — alles war vorbereitet. Wir mussten nur unser Herz mitbringen.",
+    "attribution": "— EIN 8848 FRANCHISE-PARTNER"
+  },
+
+  "faq": {
+    "label": "Fragen beantwortet",
+    "titleLine1": "HÄUFIG",
+    "titleLine2": "GESTELLTE FRAGEN.",
+    "items": [
+      {
+        "q": "Brauche ich Gastronomie-Erfahrung?",
+        "a": "Nicht unbedingt, aber es hilft. Wir suchen engagierte Unternehmer, die lernen möchten. Das Training deckt alles ab."
+      },
+      {
+        "q": "Wie lange dauert die Eröffnung?",
+        "a": "Durchschnittlich 6–9 Monate von der Vereinbarung bis zur Eröffnung, abhängig von Standort und Genehmigungen."
+      },
+      {
+        "q": "Welche laufenden Gebühren gibt es?",
+        "a": "Royalty- und Marketinggebühren auf den Umsatz — vollständig erklärt während des Discovery Calls."
+      },
+      {
+        "q": "Kann ich ein Gebiet übernehmen?",
+        "a": "Ja, Gründungspartner können Multi-Unit- und regionale Rechte erhalten."
+      },
+      {
+        "q": "Ist das Programm für Deutschland aufgebaut?",
+        "a": "Ja. Das Franchise-Programm für Deutschland basiert auf transparenter Offenlegung, fairen Verträgen, operativer Unterstützung und den praktischen Anforderungen des deutschen Marktes."
+      }
+    ]
+  },
+
+  "inquiry": {
+    "label": "Lass uns sprechen",
+    "titleLine1": "STARTE DEINE",
+    "titleLine2": "8848 REISE.",
+    "lead": "Erzähl uns etwas über dich und in welcher Stadt du eröffnen möchtest. Unser Team meldet sich innerhalb von 2 Werktagen.",
+    "contacts": [
+      {
+        "icon": "Phone",
+        "label": "+49 69 76029152 — ruf uns an",
+        "href": "tel:+49 69 76029152"
+      },
+      {
+        "icon": "Mail",
+        "label": "info@8848momohouse.de",
+        "href": "mailto:info@8848momohouse.de"
+      },
+      {
+        "icon": "MapPin",
+        "label": "Deutschland — Frankfurt Ludwig Straße 10",
+        "href": ""
+      }
+    ],
+    "cardKicker": "Gründungspartner",
+    "cardTitle": "Reduzierte Franchisegebühr",
+    "cardBody": "Die ersten 10 Partner erhalten eine reduzierte Einstiegsgebühr und Priorität bei der Gebietsauswahl.",
+    "successTitle": "Momoste! 🙏",
+    "successCta": "Erneut senden",
+    "privacy": "Mit dem Absenden erklärst du dich damit einverstanden, dass 8848 Momo House dich bezüglich Franchise-Möglichkeiten kontaktiert. Deine Daten bleiben vertraulich."
+  },
+
+  "form": {
+    "nameLabel": "Vollständiger Name",
+    "namePlaceholder": "Dein vollständiger Name",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "du@beispiel.de",
+    "messageLabel": "Nachricht",
+    "messagePlaceholder": "Erzähl uns von deiner Stadt, deinem Budget, deinem Zeitplan oder deinen Fragen...",
+    "submit": "Interesse anmelden",
+    "submitting": "Wird gesendet...",
+    "error": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+    "successTitle": "Vielen Dank!",
+    "successBody": "Wir haben deine Angaben erhalten. Wir melden uns bald bei dir.",
+    "fallbackMessage": "Neue Franchise-Anfrage"
+  },
+
+  "email": {
+    "title": "Franchise-Anfrage"
+  }
+}

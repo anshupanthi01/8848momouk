@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "kicker": "NEPALESISCHES RESTAURANT | DEUTSCHLAND",
+    "title1": "NEPALESISCHE DUMPLINGS",
+    "title2": "& ORIENTALISCHE FUSION",
+    "desc": "8848 Momo House heißt sowohl Nepalesen als auch hungrige Foodies willkommen mit einer einzigartigen orientalischen Fusionskarte voller köstlicher Momos — zart, saftig und gefüllt mit authentischen und innovativen Aromen.",
+    "ctaMenu": "MENÜ ANSEHEN",
+    "ctaOrder": "ONLINE BESTELLEN"
+  },
+  "momoste": {
+    "plateAlt": "Teller mit Momos",
+    "title": "MOMOSTE!",
+    "subtitle": "Gute Zeiten und leckeres Essen!",
+    "body": "Unser orientalisches Fusionsmenü wird deine Geschmacksknospen überraschen und begeistern. Du kommst immer wieder zurück für einen Bauch voller Wärme, Gastfreundschaft und Freude!",
+    "whyTitle": "Warum 8848?",
+    "whyBody": "Das ist die Höhe des majestätischen Mount Everest in Nepal — der höchste Berg über dem Meeresspiegel — und er inspiriert uns jeden Tag, das höchste Niveau an Gastfreundschaft anzustreben.",
+    "noteEmph": "Momoste",
+    "noteRest": "ist unsere Anspielung auf „Namaste“. Du wirst es bei uns oft hören."
+  },
+  "roots": {
+    "imageAlt": "Nepalesischer Wurzelsektion",
+    "title1": "NEPALESISCHE WURZELN,",
+    "title2": "AUS AUSTRALIEN ENTSTANDEN?",
+    "lead": "8848 Momo House ist die Idee von Hom Pyashi, einem nepalesischen Auswanderer und stolzen neuen Australier.",
+    "body": "Aus Sehnsucht nach seinem vertrauten Comfort Food baute Hom ein Restaurant, das unsere nepalesischen Freunde sofort lieben — und das unseren australischen Freunden eine neue Küche näherbrachte, die ihre Geschmacksknospen begeistert.",
+    "ctaMenu": "UNSER MENÜ ANSEHEN"
+  },
+  "updates": {
+    "title": "Folge uns für regelmäßige Updates",
+    "readMore": "Mehr lesen",
+    "posts": [
+      {
+        "key": "newMenu",
+        "title": "Neues Menü jetzt im Restaurant erhältlich!",
+        "excerpt": "Wir freuen uns, unser brandneues Menü anzukündigen! Es ist momolicious...",
+        "img": "/8848-assets/post-menu.png",
+        "href": "/menu"
+      },
+      {
+        "key": "expandEurope",
+        "title": "Expansion nach Europa",
+        "excerpt": "8848 Momo House bringt seine authentischen Aromen nun außerhalb Australiens. Der Geschmack Nepals ist auf dem Weg nach Europa.",
+        "img": "/8848-assets/post-europe.jpg"
+      },
+      {
+        "key": "perth",
+        "title": "Momo in Perth",
+        "excerpt": "8848 Momo House Perth — wir kommen näher. Die Eröffnung in Victoria Park ist für Mai 2026 geplant und bringt den Geschmack Nepals.",
+        "img": "/8848-assets/post-perth.png"
+      }
+    ]
+  },
+  "yak": {
+    "imageAlt": "Yak Club",
+    "titlePrefix": "WERDE MITGLIED DES",
+    "titleEmph": "‘MOMOSTE CLUB’",
+    "body": "Werde Mitglied im Momoste Club und erhalte die besondere VIP-Behandlung, die du verdienst. Du wirst als Erster über Events, Ankündigungen, exklusive Rabatte und Angebote informiert.",
+    "cta": "KOSTENLOS ANMELDEN"
+  },
+  "faq": {
+    "kicker": "FAQ",
+    "title": "Schnelle Antworten",
+    "items": [
+      {
+        "q": "Habt ihr vegetarische Optionen?",
+        "a": "Ja. Platzhalter-Antwort — bitte später mit echten Menüinformationen ersetzen."
+      },
+      {
+        "q": "Bietet ihr Catering an?",
+        "a": "Ja. Platzhalter-Antwort — bitte später Details ergänzen."
+      },
+      {
+        "q": "Wie lange dauert die Abholung?",
+        "a": "Meist 10–20 Minuten, abhängig vom Andrang. Platzhalter-Text."
+      }
+    ]
+  },
+  "cta": {
+    "kicker": "BEREIT ZU ESSEN?",
+    "title": "Online bestellen und deine Favoriten abholen",
+    "subtitle": "Platzhalter-CTA. Text später ersetzen.",
+    "button": "Online bestellen"
+  }
+}

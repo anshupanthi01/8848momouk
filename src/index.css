@@ -1,0 +1,559 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@font-face {
+  font-family: "8848 Poppins";
+  src: url("/fonts/8848/Poppins-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "8848 Poppins";
+  src: url("/fonts/8848/Poppins-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "8848 Poppins";
+  src: url("/fonts/8848/Poppins-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "8848 Poppins";
+  src: url("/fonts/8848/Poppins-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "8848 Poppins";
+  src: url("/fonts/8848/Poppins-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "8848 Poppins";
+  src: url("/fonts/8848/Poppins-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vanguard CF";
+  src: url("/fonts/8848/VanguardCF-ExtraBold.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ShoeM";
+  src: url("/fonts/8848/Shoemaker.ttf") format("truetype");
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Anodyne";
+  src: url("/fonts/8848/AnodyneCombined.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@custom-variant dark (&:is(.dark *));
+
+html, body {
+  font-family: var(--font-sans);
+  background: var(--background);
+  color: var(--foreground);
+  font-size: 16px;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  min-width: 320px;
+  overflow-x: hidden;
+}
+
+.au-display-font {
+  font-family: "ShoeM", "Vanguard CF", "Arial Narrow", sans-serif;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+.au-stamp-font {
+  font-family: "Anodyne", "Vanguard CF", "Arial Narrow", sans-serif;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+.au-momoste-title {
+  position: relative;
+  display: inline-block;
+  isolation: isolate;
+}
+
+.au-momoste-splash {
+  position: absolute;
+  z-index: 1;
+  top: -0.1em;
+  right: -0.06em;
+  width: 0.58em;
+  height: 0.58em;
+  color: #de1d3d;
+  pointer-events: none;
+  transform: rotate(18deg);
+  transform-origin: center;
+}
+
+.au-momoste-splash,
+.au-momoste-splash::before,
+.au-momoste-splash::after {
+  background:
+    radial-gradient(circle at 52% 50%, currentColor 0 18%, transparent 19%),
+    radial-gradient(circle at 18% 22%, currentColor 0 5%, transparent 6%),
+    radial-gradient(circle at 82% 24%, currentColor 0 6%, transparent 7%),
+    radial-gradient(circle at 25% 78%, currentColor 0 4%, transparent 5%),
+    radial-gradient(circle at 88% 74%, currentColor 0 5%, transparent 6%);
+}
+
+.au-momoste-splash::before,
+.au-momoste-splash::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  clip-path: polygon(46% 0, 56% 0, 58% 38%, 100% 44%, 100% 56%, 58% 60%, 56% 100%, 45% 100%, 42% 60%, 0 56%, 0 44%, 42% 38%);
+}
+
+.au-momoste-splash::after {
+  transform: rotate(45deg);
+}
+
+.au-nav-font {
+  font-family: "ShoeM", "Vanguard CF", "Arial Narrow", sans-serif;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+.au-body-font {
+  font-family: "8848 Poppins", Arial, sans-serif;
+}
+
+.au-kicker {
+  font-family: "8848 Poppins", Arial, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #de1d3d;
+}
+
+.au-copy {
+  font-family: "8848 Poppins", Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #26367c;
+}
+
+.au-copy-strong {
+  font-family: "8848 Poppins", Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.7;
+  color: #26367c;
+}
+
+.au-copy-sm {
+  font-family: "8848 Poppins", Arial, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.65;
+  color: #26367c;
+}
+
+.studio-surface {
+  border: 1px solid rgba(33, 64, 142, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: 0 18px 44px -34px rgba(33, 64, 142, 0.65);
+}
+
+.studio-panel {
+  border: 1px solid rgba(33, 64, 142, 0.1);
+  border-radius: 8px;
+  background: rgba(237, 242, 255, 0.82);
+}
+
+.studio-label {
+  font-family: "8848 Poppins", Arial, sans-serif;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: rgba(33, 64, 142, 0.68);
+}
+
+.studio-muted {
+  font-family: "8848 Poppins", Arial, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.55;
+  color: rgba(38, 54, 124, 0.72);
+}
+
+.studio-control {
+  border-radius: 8px;
+  border-color: rgba(33, 64, 142, 0.16);
+  background: #ffffff;
+  color: #21408e;
+}
+
+.au-image-frame {
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
+
+.au-image-frame > img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.au-hero-grid {
+  background-image:
+    linear-gradient(135deg, transparent 0 32px, rgba(255, 255, 255, 0.88) 32px 35px, transparent 35px 68px),
+    linear-gradient(135deg, transparent 0 96px, rgba(255, 255, 255, 0.62) 96px 99px, transparent 99px 150px);
+  background-position: right -80px top 32px, right -40px bottom -16px;
+  background-repeat: no-repeat;
+  background-size: 460px 320px, 760px 420px;
+}
+
+.au-mountain-lines {
+  background:
+    repeating-linear-gradient(
+      135deg,
+      transparent 0 25px,
+      rgba(255,255,255,0.92) 25px 29px,
+      transparent 29px 43px
+    );
+  clip-path: polygon(0 72%, 22% 36%, 34% 58%, 56% 10%, 75% 46%, 100% 0, 100% 100%, 0 100%);
+}
+
+.au-hero-stamp {
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  border: 8px solid rgba(168, 193, 248, 0.62);
+  color: rgba(93, 138, 229, 0.42);
+  font-family: "Vanguard CF", "Arial Narrow", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.au-hero-stamp::before,
+.au-hero-stamp::after {
+  content: "";
+  position: absolute;
+  border-radius: inherit;
+  pointer-events: none;
+}
+
+.au-hero-stamp::before {
+  inset: 18px;
+  border: 2px solid rgba(168, 193, 248, 0.62);
+}
+
+.au-hero-stamp::after {
+  inset: 54px;
+  border: 2px solid rgba(168, 193, 248, 0.42);
+}
+
+.au-hero-stamp__face {
+  position: relative;
+  width: 42%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 4px solid rgba(93, 138, 229, 0.26);
+}
+
+.au-hero-stamp__face::before,
+.au-hero-stamp__face::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 999px;
+  background: rgba(93, 138, 229, 0.24);
+}
+
+.au-hero-stamp__face::before {
+  top: 18%;
+  width: 38%;
+  height: 34%;
+}
+
+.au-hero-stamp__face::after {
+  bottom: 12%;
+  width: 72%;
+  height: 34%;
+}
+
+.au-hero-stamp__text {
+  position: absolute;
+  bottom: 19%;
+  font-size: 0.72rem;
+  opacity: 0.72;
+}
+
+/* later added */
+.au-phone-font {
+  font-family: "Vanguard CF", "8848 Poppins", sans-serif;
+  font-weight: 800;
+}
+
+.shoem-font {
+  font-family: "ShoeM", "8848 Poppins", serif;
+}
+
+.au-about-lines {
+  background-image:
+    linear-gradient(135deg, transparent 0 30px, rgba(255, 255, 255, 0.92) 30px 33px, transparent 33px 64px),
+    linear-gradient(135deg, transparent 0 84px, rgba(255, 255, 255, 0.72) 84px 87px, transparent 87px 138px),
+    linear-gradient(135deg, transparent 0 160px, rgba(166, 193, 248, 0.26) 160px 163px, transparent 163px 220px);
+  background-position: right -60px top -20px, right 220px top 54px, left 20px bottom -70px;
+  background-repeat: no-repeat;
+  background-size: 720px 360px, 560px 300px, 760px 330px;
+}
+
+@media (max-width: 767px) {
+  .au-hero-grid {
+    background-position: right -90px top 8px, right -210px bottom 28px;
+    background-size: 360px 260px, 520px 360px;
+  }
+
+  .au-about-lines {
+    background-position: right -190px top -20px, right -210px top 70px, left -260px bottom -30px;
+    background-size: 460px 300px, 420px 280px, 520px 280px;
+  }
+}
+
+@theme inline {
+    --radius: 999px;
+    --font-heading: "ShoeM", "Vanguard CF", "8848 Poppins", sans-serif;
+    --font-sans: "8848 Poppins", Arial, sans-serif;
+    --color-sidebar-ring: var(--sidebar-ring);
+    --color-sidebar-border: var(--sidebar-border);
+    --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+    --color-sidebar-accent: var(--sidebar-accent);
+    --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+    --color-sidebar-primary: var(--sidebar-primary);
+    --color-sidebar-foreground: var(--sidebar-foreground);
+    --color-sidebar: var(--sidebar);
+    --color-chart-5: var(--chart-5);
+    --color-chart-4: var(--chart-4);
+    --color-chart-3: var(--chart-3);
+    --color-chart-2: var(--chart-2);
+    --color-chart-1: var(--chart-1);
+    --color-ring: var(--ring);
+    --color-input: var(--input);
+    --color-border: var(--border);
+    --color-destructive: var(--destructive);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-accent: var(--accent);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-muted: var(--muted);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-secondary: var(--secondary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-primary: var(--primary);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-popover: var(--popover);
+    --color-card-foreground: var(--card-foreground);
+    --color-card: var(--card);
+    --color-foreground: var(--foreground);
+    --color-background: var(--background);
+    --radius-sm: calc(var(--radius) * 0.6);
+    --radius-md: calc(var(--radius) * 0.8);
+    --radius-lg: var(--radius);
+    --radius-xl: calc(var(--radius) * 1.4);
+    --radius-2xl: calc(var(--radius) * 1.8);
+    --radius-3xl: calc(var(--radius) * 2.2);
+    --radius-4xl: calc(var(--radius) * 2.6);
+
+      /* Brand */
+  --color-brand-red: #de1d3d;
+  --color-brand-navy: #21408e;
+  --color-brand-bg: #edf2ff;
+
+  /* shadcn tokens (light) */
+  --background: var(--color-brand-bg);
+  --foreground: #0b1220;
+
+  --card: #ffffff;
+  --card-foreground: #0b1220;
+
+  --popover: #ffffff;
+  --popover-foreground: #0b1220;
+
+  --primary: var(--color-brand-red);
+  --primary-foreground: #ffffff;
+
+  --secondary: #ffffff;
+  --secondary-foreground: #0b1220;
+
+  --muted: rgba(33, 64, 142, 0.08);
+  --muted-foreground: rgba(11, 18, 32, 0.65);
+
+  --accent: rgba(33, 64, 142, 0.10);
+  --accent-foreground: var(--color-brand-navy);
+
+  --border: rgba(33, 64, 142, 0.18);
+  --input: rgba(33, 64, 142, 0.18);
+  --ring: rgba(222, 29, 61, 0.5);
+}
+
+:root {
+    --background: #edf2ff;
+    --foreground: #21408e;
+    --card: #ffffff;
+    --card-foreground: #21408e;
+    --popover: #ffffff;
+    --popover-foreground: #21408e;
+    --primary: #de1d3d;
+    --primary-foreground: #ffffff;
+    --secondary: #ffffff;
+    --secondary-foreground: #21408e;
+    --muted: rgba(33, 64, 142, 0.08);
+    --muted-foreground: rgba(33, 64, 142, 0.68);
+    --accent: rgba(222, 29, 61, 0.08);
+    --accent-foreground: #21408e;
+    --destructive: oklch(0.577 0.245 27.325);
+    --border: rgba(33, 64, 142, 0.16);
+    --input: rgba(33, 64, 142, 0.16);
+    --ring: rgba(222, 29, 61, 0.42);
+    --chart-1: oklch(0.87 0 0);
+    --chart-2: oklch(0.556 0 0);
+    --chart-3: oklch(0.439 0 0);
+    --chart-4: oklch(0.371 0 0);
+    --chart-5: oklch(0.269 0 0);
+    --radius: 0.625rem;
+    --sidebar: oklch(0.985 0 0);
+    --sidebar-foreground: oklch(0.145 0 0);
+    --sidebar-primary: oklch(0.205 0 0);
+    --sidebar-primary-foreground: oklch(0.985 0 0);
+    --sidebar-accent: oklch(0.97 0 0);
+    --sidebar-accent-foreground: oklch(0.205 0 0);
+    --sidebar-border: oklch(0.922 0 0);
+    --sidebar-ring: oklch(0.708 0 0);
+}
+
+.dark {
+    --background: oklch(0.145 0 0);
+    --foreground: oklch(0.985 0 0);
+    --card: oklch(0.205 0 0);
+    --card-foreground: oklch(0.985 0 0);
+    --popover: oklch(0.205 0 0);
+    --popover-foreground: oklch(0.985 0 0);
+    --primary: oklch(0.922 0 0);
+    --primary-foreground: oklch(0.205 0 0);
+    --secondary: oklch(0.269 0 0);
+    --secondary-foreground: oklch(0.985 0 0);
+    --muted: oklch(0.269 0 0);
+    --muted-foreground: oklch(0.708 0 0);
+    --accent: oklch(0.269 0 0);
+    --accent-foreground: oklch(0.985 0 0);
+    --destructive: oklch(0.704 0.191 22.216);
+    --border: oklch(1 0 0 / 10%);
+    --input: oklch(1 0 0 / 15%);
+    --ring: oklch(0.556 0 0);
+    --chart-1: oklch(0.87 0 0);
+    --chart-2: oklch(0.556 0 0);
+    --chart-3: oklch(0.439 0 0);
+    --chart-4: oklch(0.371 0 0);
+    --chart-5: oklch(0.269 0 0);
+    --sidebar: oklch(0.205 0 0);
+    --sidebar-foreground: oklch(0.985 0 0);
+    --sidebar-primary: oklch(0.488 0.243 264.376);
+    --sidebar-primary-foreground: oklch(0.985 0 0);
+    --sidebar-accent: oklch(0.269 0 0);
+    --sidebar-accent-foreground: oklch(0.985 0 0);
+    --sidebar-border: oklch(1 0 0 / 10%);
+    --sidebar-ring: oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+    }
+  body {
+    @apply bg-background text-foreground;
+    }
+  html {
+    @apply font-sans;
+    }
+}
+.test-tailwind {
+  @apply p-4 text-white bg-red-500;
+}
+
+.au-reveal {
+  animation: auFadeUp 700ms cubic-bezier(0.215, 0.61, 0.355, 1) both;
+}
+
+.au-gallery-section > img {
+  transform-origin: center center;
+}
+
+@keyframes auFadeUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 22px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 18s linear infinite;
+  will-change: transform;
+}
+
+/* Optional: respect reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .animate-spin-slow {
+    animation: none;
+  }
+}

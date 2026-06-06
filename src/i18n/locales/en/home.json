@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "kicker": "NEPALESE RESTAURANT",
+    "title1": "NEPALESE DUMPLINGS",
+    "title2": "& ORIENTAL FUSION",
+    "desc": "8848 Momo House treats momo lovers to a unique Oriental Fusion menu featuring tender, plump Nepalese dumplings stuffed with authentic and creative fillings.",
+    "ctaMenu": "VIEW MENU",
+    "ctaOrder": "ORDER ONLINE"
+  },
+  "momoste": {
+    "plateAlt": "Momos plate",
+    "title": "MOMOSTE!",
+    "subtitle": "Good times and tasty food!",
+    "body": "Our oriental fusion menu will surprise and excite your tastebuds. You will find yourself coming back for another tummy-full of our warmth, hospitality and fun.",
+    "whyTitle": "Why 8848?",
+    "whyBody": "That is the height of Mt Everest in Nepal, the earth's highest mountain above sea level, and what inspires us every day to aim for the highest heights of hospitality.",
+    "noteEmph": "Momoste",
+    "noteRest": "is our tongue-in-cheek spin on Namaste. Expect to hear it a lot around our house."
+  },
+  "roots": {
+    "imageAlt": "Nepalese roots section",
+    "title1": "NEPALESE ROOTS,",
+    "title2": "AUSSIE INVENTION?",
+    "lead": "8848 Momo House is the invention of Hom Pyashi, Nepali and proud new Aussie.",
+    "body": "Homesick and craving his familiar comfort foods, Hom built a restaurant our Nepalese friends instantly love, and our Aussie mates have discovered as a brand new cuisine that's tickling their tastebuds.",
+    "ctaMenu": "VIEW OUR MENU",
+    "href": "/menu"
+  },
+  "updates": {
+    "title": "Follow us for regular updates",
+    "readMore": "Read more",
+    "posts": [
+      {
+        "key": "newMenu",
+        "title": "New menu now available instore!",
+        "excerpt": "We are very pleased to announce the arrival of our brand new menu. It's momolicious.",
+        "img": "/8848-assets/post-menu.png",
+        "href": "/menu"
+      },
+      {
+        "key": "launchUpdate",
+        "title": "Launch updates coming soon",
+        "excerpt": "8848 Momo House is preparing placeholder launch updates. Replace this copy with real market news later.",
+        "img": "/8848-assets/post-europe.jpg"
+      },
+      {
+        "key": "perth",
+        "title": "Momo in Perth",
+        "excerpt": "8848 Momo House Perth is getting closer, bringing the taste of Nepal to more momo lovers.",
+        "img": "/8848-assets/post-perth.png"
+      }
+    ]
+  },
+  "yak": {
+    "imageAlt": "Yak club",
+    "titlePrefix": "JOIN THE",
+    "titleEmph": "'MOMOSTE CLUB'",
+    "body": "Join the Momoste Club and we will show you the extra special VIP treatment you deserve. You will be the first to receive event invites, announcements, unique discounts and offers.",
+    "cta": "JOIN FOR FREE"
+  },
+  "faq": {
+    "kicker": "FAQ",
+    "title": "Quick answers",
+    "items": [
+      { "q": "Do you have vegetarian options?", "a": "Yes. Placeholder answer, update later with real menu info." },
+      { "q": "Do you offer catering?", "a": "Yes. Placeholder answer, add details later." },
+      { "q": "How long does pickup take?", "a": "Usually 10-20 minutes depending on rush hours. Placeholder text." }
+    ]
+  },
+  "cta": {
+    "kicker": "READY TO EAT?",
+    "title": "Order online and pick up your favourites",
+    "subtitle": "Placeholder CTA. Replace content later.",
+    "button": "Order Online"
+  }
+}

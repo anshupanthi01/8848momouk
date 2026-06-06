@@ -1,0 +1,19 @@
+{
+  "leftText": "Wenn du das 8848 Momo House besuchst, fühlst du dich sofort willkommen. Bring Freunde mit, esst und trinkt gemeinsam und habt Spaß. Vor allem kannst du mit 100 % Zufriedenheit rechnen.",
+  "contactUs": "KONTAKT",
+  "orderOnline": "ONLINE BESTELLEN",
+  "moreAboutUs": "MEHR ÜBER UNS",
+  "findYour": "FINDE DEIN",
+  "localMomoHouse": "LOKALES MOMO HOUSE",
+  "privacy": "Datenschutz",
+  "terms": "Bedingungen",
+  "footerLocation": {
+    "city": "Frankfurt, Deutschland",
+    "address": "Ludwigstraße 10, 60327 Frankfurt am Main, Deutschland",
+    "phoneLabel": "Telefon:",
+    "phoneRaw": "+496976029152",
+    "phoneDisplay": "+49 6976029152",
+    "hoursLabel": "Öffnungszeiten:",
+    "hoursValue": "Freitag 11:30–22:00\nSamstag 12:30–22:00\nSonntag 12:30–22:00\nMontag 11:30–22:00\nDienstag 11:30–22:00\nMittwoch 11:30–22:00\nDonnerstag 11:30–22:00"
+  }
+}

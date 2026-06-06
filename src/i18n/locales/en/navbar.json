@@ -1,0 +1,16 @@
+{
+  "phone": "0000 000 000",
+  "orderOnline": "ORDER ONLINE",
+  "mobile": { "menu": "Menu" },
+  "links": {
+    "home": "HOME",
+    "menu": "MENU",
+    "gallery": "GALLERY",
+    "events": "EVENTS",
+    "rewards": "REWARDS",
+    "stuff": "STUFF",
+    "franchise": "FRANCHISE",
+    "careers": "CAREERS",
+    "about": "ABOUT US"
+  }
+}

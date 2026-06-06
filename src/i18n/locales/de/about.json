@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "kicker": "Über uns",
+    "title1": "8848 Momo House",
+    "title2": "Nepalesisches Restaurant"
+  },
+  "splitIntro": {
+    "imageAlt": "8848 Momo Teller",
+    "title1": "Ja!",
+    "title2": "Du hast uns gefunden!",
+    "p1": "Normalerweise müsstest du durch die Berge und Täler Nepals reisen, um erstklassige, weiche und saftige Momos zu probieren. Aber du hast Glück: Es gibt ein 8848 Momo House ganz in deiner Nähe.",
+    "p2": "Wir verwenden nur die besten Zutaten: hochwertiges Fleisch, frischestes Gemüse und sorgfältig ausgewählte Gewürze. Jeder Momo wird von Hand gemacht — saftig, köstlich und mit Liebe zubereitet. Vergiss auch nicht, andere Gerichte aus unserem Menü zu probieren. Unsere Gäste kommen immer wieder zurück, weil sie mehr genießen möchten!",
+    "goodTimesAlt": "Gute Zeiten und leckeres Essen"
+  },
+  "hom": {
+    "script": "Gute Zeiten und leckeres Essen!",
+    "title": "Momos von Hom",
+    "p1": "8848 Momo House ist die Idee von Hom Pyashi, einem nepalesischen Auswanderer und stolzen neuen Australier. Aus Sehnsucht nach seinem vertrauten Comfort Food baute Hom ein Restaurant auf, und die Anzahl der Standorte wächst stetig. Jetzt kann er jederzeit Momos essen — und noch besser: sie mit anderen Nepalesen teilen und Australiern vorstellen.",
+    "p2": "Wenn du das 8848 Momo House betrittst, fühlst du dich sofort willkommen. Bring Freunde mit, iss und trink, lache gemeinsam. Vor allem kannst du mit 100 % Zufriedenheit rechnen.",
+    "imageAlt": "Momos in einer Messingschale"
+  },
+  "story": {
+    "imageAlt1": "Es war einmal in Nepal",
+    "title1": "Momos ... die großen",
+    "title2": "Menschenverbinder",
+    "lead": "Lass mich dir eine Geschichte erzählen (vielleicht wahr, vielleicht nicht — aber spielt das eine Rolle?)",
+    "once": "Es war einmal …",
+    "p1": "Ein reicher Mann reiste durch die Ebenen Nepals und spürte großen Hunger. Er konnte kein schickes Restaurant finden und fragte sich, was er tun sollte — bis er köstliche Düfte von einem Straßenstand wahrnahm.",
+    "p2": "Nach nur einem Bissen war er begeistert. Schon bald wurden Momos bei der High Society so beliebt, dass sie zu einem echten „sozialen Gleichmacher“ wurden. Reich und arm teilten Momos und Lächeln auf Straßen und in Dörfern.",
+    "p3": "Heute lebt derselbe Geist im 8848 Momo House in Australien weiter. Momos bringen Menschen für Spaß, gute Zeiten und Gespräche zusammen.",
+    "p4": "Der Mann aß weiter, bis er fast platzte. Niemals jemand, der eine Gelegenheit verpasst, sprang sofort sein Unternehmergeist an, und er stellte die Frau direkt ein, damit sie Momos für seine prächtigen Bankette zubereitete … eigentlich eine echte Aschenputtel-Geschichte.",
+    "p5": "Schon bald wurden Momos bei der High Society so beliebt, dass sie überall zu einem sozialen Gleichmacher wurden. Reiche und arme Menschen teilten offen Momos und Lächeln auf Straßen und in Dörfern, lernten sich kennen und verbreiteten Freundlichkeit und Glück.",
+    "p6": "Heute verkörpert das 8848 Momo House denselben Geist hier in Australien. Momos bringen Menschen für Spaß, gute Zeiten und Gespräche zusammen. Jeder köstliche Bissen eines weichen, geschmackvollen Momos zaubert dir ein Lächeln ins Gesicht. Wir laden dich ein, unsere warme Gastfreundschaft, die fröhliche Atmosphäre und die wunderbar sättigenden Köstlichkeiten jeden Tag aufs Neue zu erleben.",
+    "imageAlt2": "Nepalesische Hände bei der Essenszubereitung"
+  },
+  "club": {
+    "title": "Werde Mitglied im „Momoste Club“",
+    "body": "Werde Mitglied im Momoste Club und wir geben dir die extra besondere VIP-Behandlung, die du verdienst. Du erhältst als Erster Einladungen zu Events, Ankündigungen, exklusive Rabatte und Angebote.",
+    "cta": "Kostenlos anmelden",
+    "imageAlt": "Yak der Yak"
+  }
+}
