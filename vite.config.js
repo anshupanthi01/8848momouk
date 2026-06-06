@@ -7,7 +7,6 @@ import tailwindcss from "@tailwindcss/vite"
 const projectRoot = path.dirname(fileURLToPath(import.meta.url))
 
 export default defineConfig({
-  base: "/8848uk/",  // ← ADD THIS LINE
   root: projectRoot,
   plugins: [react(), tailwindcss()],
   resolve: {

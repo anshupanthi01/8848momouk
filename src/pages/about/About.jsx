@@ -12,7 +12,7 @@ const IMG = {
   hands: "/8848-assets/Nepalese-Woman-Hands-1.jpg.webp",
   // needed because first code uses these:
   goodTimesImg: "/8848-assets/good-times-tasty-food.png",
-  yak: "/8848-assets/yak-club.png.webp",
+  yak: "/8848-assets/yak-footer.png",
 };
 
 const fadeUp = {
